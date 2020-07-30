@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/twitter-word-count-react/static/css/main.e152c28b.chunk.css",
+    "main.js": "/twitter-word-count-react/static/js/main.abfd00cb.chunk.js",
+    "main.js.map": "/twitter-word-count-react/static/js/main.abfd00cb.chunk.js.map",
+    "runtime-main.js": "/twitter-word-count-react/static/js/runtime-main.358d90ac.js",
+    "runtime-main.js.map": "/twitter-word-count-react/static/js/runtime-main.358d90ac.js.map",
+    "static/js/2.958523b9.chunk.js": "/twitter-word-count-react/static/js/2.958523b9.chunk.js",
+    "static/js/2.958523b9.chunk.js.map": "/twitter-word-count-react/static/js/2.958523b9.chunk.js.map",
+    "index.html": "/twitter-word-count-react/index.html",
+    "precache-manifest.d7e3330f0ba2655a1adfbe81145333bd.js": "/twitter-word-count-react/precache-manifest.d7e3330f0ba2655a1adfbe81145333bd.js",
+    "service-worker.js": "/twitter-word-count-react/service-worker.js",
+    "static/css/main.e152c28b.chunk.css.map": "/twitter-word-count-react/static/css/main.e152c28b.chunk.css.map",
+    "static/js/2.958523b9.chunk.js.LICENSE.txt": "/twitter-word-count-react/static/js/2.958523b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.358d90ac.js",
+    "static/js/2.958523b9.chunk.js",
+    "static/css/main.e152c28b.chunk.css",
+    "static/js/main.abfd00cb.chunk.js"
+  ]
+}
